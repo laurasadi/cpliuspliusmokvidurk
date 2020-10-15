@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602743520 source:/home/laura/Documents/C++/Pasibandymai/main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<fstream>
+
